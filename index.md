@@ -1,4 +1,4 @@
-## Welcome to Nickolas' Portfolio
+## Welcome to Nickolas's Portfolio
 
 You can use the [editor on GitHub](https://github.com/Zeroa5/2022dmportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
